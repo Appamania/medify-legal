@@ -19,3 +19,5 @@ th{font-weight:600;color:var(--muted);font-size:13px}
 .note{background:var(--brand-tint);color:var(--brand-strong);border-radius:22px;padding:16px 20px;margin:16px 0}
 footer{margin-top:48px;color:var(--muted);font-size:14px}
 @media (max-width:560px){h1{font-size:30px}table,thead,tbody,tr,th,td{display:block}thead{display:none}td{border:none;padding:4px 0}tr{border-bottom:1px solid var(--line);padding:10px 0}}
+.brand{display:inline-flex;align-items:center;gap:10px}
+.brand img{border-radius:7px}
